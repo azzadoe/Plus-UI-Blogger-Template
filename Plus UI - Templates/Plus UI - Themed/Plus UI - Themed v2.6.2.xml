@@ -4500,7 +4500,7 @@ Notification texts go here &lt;a href=&#39;/p/contact.html&#39; target=&#39;_bla
                           <span class='credit'>
                             <b:if cond='data:content == &quot;&quot;'><span style='font-family:Arial, Helvetica, sans-serif'>&#169;</span> <span id='getYear'><b:if cond='data:view.url != data:view.url params { amp: &quot;1&quot; }'><script>/*<![CDATA[*/ var d = new Date(); var n = d.getFullYear(); document.getElementById('getYear').innerHTML = n; /*]]>*/</script><b:else/>2022</b:if></span> &#8231; <bdi><a expr:href='data:blog.homepageUrl.canonical'><data:blog.title/><b:include name='verified-icon'/></a></bdi> &#8231; All rights reserved.<b:else/><data:content/></b:if>
                           </span>
-                          <span class='creator'>Downloaded from <a href='https://www.bazaman.com/2024/04/download-plus-ui-blogger-template-terbaru.htmlm'>Plus UI template</a></span>
+                          <span class='creator'>Downloaded from <a href='https://www.bazaman.com/2024/04/download-plus-ui-blogger-template-terbaru.html'>Plus UI template</a></span>
                         </div>
                       </b:includable>
                     </b:widget>
